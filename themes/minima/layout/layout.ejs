@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="<%= config.language %>">
+
+<head>
+
+  <meta charset="utf-8">
+
+  <title><%= config.title; %></title>
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <%- css('css/normalize.css') %>
+  <%- css('css/skeleton.css') %>
+  <%- css('css/custom.css') %>
+
+  <link rel="icon" type="image/png" href="<%- theme.favicon %>">
+
+  <%- partial('tcolor') %>
+
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <div>
+        <%- partial('header') %>
+        <div class="trans">
+          <%- body %>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+
+</body>
+
+</html>
