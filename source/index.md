@@ -13,14 +13,13 @@
 
 ## 我正在学习...
 
-- 🇯🇵 日语
 - [线性代数](https://linear.axler.net/) 和 [近世代数](https://www.pup.cn/bookDetail?id=c519ce8caac44af598bff1ee957e5e6e)
 - [编译原理](https://suif.stanford.edu/dragonbook/)
 
 ## 我喜欢...
 
-- ⚽🏀🏐 球类运动 和 🛹 滑板.
-- 💣 Counter-Strike 和 ⛏️ Minecraft.
+- 🏐 排球 和 🛹 滑板.
+- 🚛 Euro Truck Simulator 2, 💣 Counter-Strike 和 ⛏️ Minecraft.
 - 🍟 土豆制品, 🍵 乌龙茶 和 ☕ 拿铁.
 - 🍂 秋天, 🌤️ 晴天 和 🌆 傍晚.
 
