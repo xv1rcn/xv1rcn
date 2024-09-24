@@ -18,12 +18,12 @@
 
 ## 我喜欢...
 
-- 🏐 排球 和 🛹 滑板.
-- 💣 Counter-Strike, ⛏️ Minecraft. 和 🏎 Forza Horizon. 
+- 🏐 排球.
+- 💣 Counter-Strike 和 ⛏️ Minecraft. 
 - 🍟 土豆制品, 🍵 乌龙茶 和 ☕ 拿铁.
 - 🍂 秋天, 🌤️ 晴天 和 🌆 傍晚.
 
 ## 我的足迹...
 
 - [GitHub](https://github.com/XavierWah).
-- 电子邮件: [xavierwah@outlook.com](mailto:xavierwah@outlook.com).
+- 电子邮件: [i@xv1r.cn](mailto:i@xv1r.cn).
