@@ -24,5 +24,5 @@
 
 ## 我的足迹
 
-- [GitHub](https://github.com/XavierWah).
+- [GitHub](https://github.com/xv1rcn).
 - 电子邮件: [i@xv1r.cn](mailto:i@xv1r.cn).
